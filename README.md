@@ -121,4 +121,3 @@ pytest
 
 Built for Digital Heroes Training Task
 
-https://digitalheroesco.com
